@@ -19,4 +19,4 @@ focal_length: The focal length of the camera.
 object_width: The known width of the object in centimeters.
 
 ## Demo
-https://github.com/AyanNaska/Object-Distance-and-Dimension-Estimation-with-OpenCV/assets/113054786/6e32b1bc-d8f7-43cb-89c7-173482f2f20a
+
