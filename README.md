@@ -20,3 +20,4 @@ object_width: The known width of the object in centimeters.
 
 ## Demo
 
+https://github.com/AyanNaska/Object-Distance-and-Dimension-Estimation-with-OpenCV/assets/113054786/8d9df640-a2b8-4ff2-b0ee-b96b409aa15f
